@@ -73,3 +73,9 @@ p.description {
 .area {
   text-align: left;
 }
+
+.linksource {
+  display: block;
+  text-align: center;
+  margin-top: 0;
+}
