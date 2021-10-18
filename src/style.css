@@ -1,0 +1,75 @@
+h1 {
+  font-family: sans-serif;
+  font-size: 50px;
+  font-style: normal;
+  font-weight: 200;
+  color: #5a6275;
+  margin: 50px 0 0;
+}
+h3 {
+  font-family: sans-serif;
+  font-style: normal;
+  font-weight: 200;
+  color: #5a6275;
+}
+
+.main-temp {
+  color: #ff7045;
+  font-size: 75px;
+  text-align: center;
+}
+
+.description {
+  font-size: 20px;
+  color: #5a6275;
+}
+
+p.description {
+  text-align: left;
+}
+
+#box {
+  max-width: 600px;
+  max-height: 800px;
+  border: 2px solid #5a6275;
+  border-radius: 10px;
+  padding: 10px;
+  margin: 40px auto;
+  box-shadow: 5px 5px 5px rgb(110 108 108 / 30%);
+}
+
+.card {
+  border: none;
+  text-align: center;
+}
+
+.row {
+  margin: 0;
+}
+
+.weekday {
+  font-weight: 600;
+  font-size: 20px;
+  color: #5a6275;
+  margin: 0;
+}
+
+.high {
+  color: #ff7045;
+  font-size: 22px;
+  font-weight: bold;
+}
+
+.low {
+  color: #006ec5;
+  font-size: 20px;
+}
+
+.units {
+  font-size: 20px;
+  text-decoration: none;
+}
+
+.area {
+  text-align: left;
+}
